@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="table_style1">
+        <item>Long table (IUPAC)</item>
+        <item>Short table (8 groups)</item>
+    </array>
+
+    <array name="spinner_filter">
+        <item>All parameters</item>
+        <item>Name</item>
+        <item>Element number</item>
+        <item>Year</item>
+        <item>Weight</item>
+        <item>Density</item>
+        <item>Conductivity</item>
+    </array>
+
+    <array name="spinner_filter_isotop">
+        <item>All parameters</item>
+        <item>Name</item>
+        <item>Element number</item>
+        <item>Weight</item>
+        <item>Period</item>
+    </array>
+
+    <array name="array_ts">
+        <item>Gas</item>
+        <item>Solid</item>
+        <item>Liquid</item>
+    </array>
+
+    <array name="arr_lang">
+        <item>English</item>        <!--val_en-->
+        <item>العربية</item>        <!--val_ar-->
+        <item>Беларускі</item>      <!--val_be-->
+        <item>Indonesia</item>      <!--val_in-->
+        <item>Italiano</item>       <!--val_it-->
+        <item>Қазақ</item>          <!--val_kz-->
+        <item>Deutsch</item>        <!--val_de-->
+        <item>Русский</item>        <!--val_ru-->
+        <item>Український</item>    <!--val_uk-->
+        <item>Français</item>       <!--val_fr-->
+        <item>हिन्दी</item>            <!--val_hi-->
+        <item>한국의</item>           <!--val_ko-->
+        <item>বাংলা</item>           <!--val_bn-->
+        <item>Český</item>          <!--val_cs-->
+        <item>Türkçe</item>         <!--val_tr-->
+        <item>Polski</item>         <!--val_pl-->
+        <item>Norsk</item>          <!--val_nb-->
+        <item>Nederlands</item>     <!--val_nl-->
+        <item>Dansk</item>          <!--val_da-->
+        <item>Swedish</item>        <!--val_sv-->
+        <item>ქართული</item>        <!--val_ka-->
+        <item>ελληνικά</item>       <!--val_el-->
+        <item>Malay</item>          <!--val_ms-->
+        <item>தமிழ்</item>           <!--val_ta-->
+        <item>Gaeilge</item>        <!--val_ga-->
+        <item>Suomen kieltä</item>  <!--val_fi-->
+        <item>Magyar</item>         <!--val_hu-->
+        <item>日本語</item>          <!--val_ja-->
+        <item>ไทย</item>            <!--val_th-->
+        <item>नेपाली</item>           <!--val_ne-->
+        <item>Galego</item>         <!--val_gl-->
+        <item>Català</item>         <!--val_ca-->
+        <item>Latvijas</item>       <!--val_lv-->
+        <item>Shqip</item>          <!--val_sq-->
+        <item>Lietuvos</item>       <!--val_lt-->
+        <item>Српски</item>         <!--val_sr-->
+        <item>Việt nam</item>       <!--val_vi-->
+        <item>Íslensk</item>        <!--val_is-->
+        <item>Македонски</item>     <!--val_mk-->
+        <item>Norsk</item>          <!--val_nn-->
+        <item>Slovenský</item>      <!--val_sk-->
+        <item>Slovenščina</item>    <!--val_sl-->
+        <item>Hrvatski</item>       <!--val_hr-->
+        <item>Românesc</item>       <!--val_ro-->
+        <item>繁體 中文</item>       <!--val_zh-->
+        <item>简体 中文</item>       <!--val_zh2-->
+        <item>Português</item>      <!--val_pt_PT-->
+        <item>Português Brasil</item><!--val_pt_BR-->
+        <item>فارسی</item>          <!--val_fa-->
+        <item>עברית</item>          <!--val_iw-->
+        <item>Eesti keel</item>     <!--val_et-->
+        <item>Español</item>        <!--val_es-->
+        <item>Filipino</item>       <!--val_es_ph-->
+        <item>ગુજરાતી</item>         <!--val_gu-->
+        <item>Bosanskih</item>      <!--val_bs-->
+        <item>Cymru</item>          <!--val_cy-->
+        <item>Melayu</item>         <!--val_ml-->
+        <item>Cornish</item>        <!--val_kw-->
+        <item>Kiswahili</item>      <!--val_sw-->
+        <item>Հայերեն</item>         <!--val_hy-->
+        <item>Azərbaycan</item>     <!--val_az-->
+        <item>Esperanto</item>      <!--val_eo-->
+        <item>Български</item>      <!--val_bg-->
+    </array>
+
+    <array name="arr_number">
+        <item>val_en</item>
+        <item>val_ar</item>
+        <item>val_be</item>
+        <item>val_in</item>
+        <item>val_it</item>
+        <item>val_kz</item>
+        <item>val_de</item>
+        <item>val_ru</item>
+        <item>val_uk</item>
+        <item>val_fr</item>
+        <item>val_hi</item>
+        <item>val_ko</item>
+        <item>val_bn</item>
+        <item>val_cs</item>
+        <item>val_tr</item>
+        <item>val_pl</item>
+        <item>val_nb</item>
+        <item>val_nl</item>
+        <item>val_da</item>
+        <item>val_sv</item>
+        <item>val_ka</item>
+        <item>val_el</item>
+        <item>val_ms</item>
+        <item>val_ta</item>
+        <item>val_ga</item>
+        <item>val_fi</item>
+        <item>val_hu</item>
+        <item>val_ja</item>
+        <item>val_th</item>
+        <item>val_ne</item>
+        <item>val_gl</item>
+        <item>val_ca</item>
+        <item>val_lv</item>
+        <item>val_sq</item>
+        <item>val_lt</item>
+        <item>val_sr</item>
+        <item>val_vi</item>
+        <item>val_is</item>
+        <item>val_mk</item>
+        <item>val_nn</item>
+        <item>val_sk</item>
+        <item>val_sl</item>
+        <item>val_hr</item>
+        <item>val_ro</item>
+        <item>val_zh</item>
+        <item>val_zh2</item>
+        <item>val_pt_pt</item>
+        <item>val_pt_br</item>
+        <item>val_fa</item>
+        <item>val_iw</item>
+        <item>val_et</item>
+        <item>val_es</item>
+        <item>val_fil</item>
+        <item>val_gu</item>
+        <item>val_bs</item>
+        <item>val_cy</item>
+        <item>val_ml</item>
+        <item>val_kw</item>
+        <item>val_sw</item>
+        <item>val_hy</item>
+        <item>val_az</item>
+        <item>val_eo</item>
+        <item>val_bg</item>
+    </array>
+
+    <array name="categ_name_new">
+        <item>Alkaline\nearth metals</item>
+        <item>Other\nnonmetals</item>
+        <item>Alkali\nmetals</item>
+        <item>Halogens</item>
+        <item>Transition\nmetals</item>
+        <item>Noble gases</item>
+        <item>Semiconductor</item>
+        <item>Lanthanides</item>
+        <item>Metalloids</item>
+        <item>Actinides</item>
+        <!-- <item>Superactinides</item>
+        <item>All items</item> -->
+    </array>
+
+    <array name="svva_alkanov">
+        <item>Methane</item>
+        <item>Ethanol</item>
+        <item>Propane</item>
+        <item>Butanol</item>
+        <item>Isobutane</item>
+        <item>Pentane</item>
+        <item>Isopentane</item>
+        <item>Neopentane</item>
+    </array>
+
+    <!-- ********* -->
+
+    <array name="ph_rastvor_name">
+        <item>Litmus</item>
+        <item>Phenolphtalein</item>
+        <item>Methyl orange</item>
+    </array>
+
+    <array name="poly_uglerod_name">
+        <item>Naphthalene</item>
+        <item>Acenaphthene</item>
+        <item>Fluorite</item>
+        <item>Phenanthrene</item>
+        <item>Anthracene</item>
+        <item>Fluoranthene</item>
+        <item>Pyrene</item>
+        <item>Benzo(а)anthracene</item>
+        <item>Chrysene</item>
+        <item>Benzo(b)Fluoranthene</item>
+        <item>Benzo(k)Fluoranthene</item>
+        <item>Dibenzo(a,h)anthracene</item>
+        <item>Benzo(ghi)perylene</item>
+        <item>Indeno(1,2,3-cd)pyrene</item>
+    </array>
+
+    <array name="reshetka">
+        <item>Hexagonal</item>
+        <item>Cubic body-centered</item>
+        <item>Rhombohedral</item>
+        <item>Cubic</item>
+        <item>Monoclinic</item>
+        <item>Cubic face-centered</item>
+        <item>Orthorombic</item>
+        <item>Hexagonal close-packed</item>
+        <item>Diamond</item>
+        <item>Trigonal</item>
+        <item>Tetragonal</item>
+        <item>Face-centered cubic atomic</item>
+    </array>
+
+    <array name="first_opener">
+        <item>Henry Cavendish</item>     <!--0-->
+        <item>Pierre Jules César Janssen</item>     <!--1-->
+        <item>Joseph Norman Lockyer</item>   <!--2-->
+        <item>Johan August Arfwedson</item>   <!--3-->
+        <item>Louis-Nicolas Vauquelin</item>   <!--4-->
+        <item>Joseph Louis Gay-Lussac</item>   <!--5-->
+        <item>Louis Jacques Thénard</item>   <!--6-->
+        <item>Humphry Davy</item>   <!--7-->
+        <item>Daniel Rutherford</item>   <!--8-->
+        <item>Joseph Priestley</item>   <!--9-->
+        <item>Carl Wilhelm Scheele</item>   <!--10-->
+        <item>Ferdinand Frederic Henri Moissan</item>   <!--11-->
+        <item>Sir William Ramsay</item>   <!--12-->
+        <item>Morris William Travers</item>   <!--13-->
+        <item>Grigory Nikolaevich Neuimin</item>   <!--14-->
+        <item>Hans Christian Ørsted</item>   <!--15-->
+        <item>Jöns Jakob Berzelius</item>   <!--16-->
+        <item>Hennig Brand</item>   <!--17-->
+        <item>Lars Fredrik Nilson</item>   <!--18-->
+        <item>Andres Manuel del Rio</item>   <!--19-->
+        <item>Johan Gottlieb Gahn</item>   <!--20-->
+        <item>Ignatius Gottfried Kaim</item>   <!--21-->
+        <item>Georg Brandt</item>   <!--22-->
+        <item>Axel Frederic von Cronstedt</item>   <!--23-->
+        <item>Paul Emile Lecoq de Boisbaudran</item>   <!--24-->
+        <item>Clemens Alexander Winkler</item>   <!--25-->
+        <item>Antoine-Jérôme Balard</item>   <!--26-->
+        <item>Karl Jakob Leuwich</item>   <!--27-->
+        <item>Robert Wilhelm Bunsen</item>   <!--28-->
+        <item>Gustav Robert Kirchhoff</item>   <!--29-->
+        <item>Adair Crawford</item>   <!--30-->
+        <item>Johan Gadolin</item>   <!--31-->
+        <item>Martin Heinrich Klaproth</item>   <!--32-->
+        <item>Charles Hatchett</item>   <!--33-->
+        <item>André-Louis Debierne</item>   <!--34-->
+        <item>William Hyde Wollaston</item>   <!--35-->
+        <item>Albert Ghiorso</item>   <!--36-->
+        <item>Paul Emile Lecoq de Boisbaudran</item>   <!--37-->
+        <item>Jean Charles Galissard de Marignac</item>   <!--38-->
+        <item>Eugène-Anatole Demarçay</item>   <!--39-->
+        <item>Claude Francois Geoffrey</item>   <!--40-->
+        <item>Friedrich Wilhelm Herschel</item>   <!--41-->
+        <item>Karl Ernst Claus</item>   <!--42-->
+        <item>Pierre Curie</item>   <!--43-->
+        <item>Marie Skłodowska Curie</item>   <!--44-->
+        <item>Carl Gustaf Mosander</item>   <!--45-->
+        <item>Emilio Gino Segrè</item>   <!--46-->
+        <item>Carlo Perrier</item>   <!--47-->
+        <item>Afanasiy Nikitin</item>   <!--48-->
+        <item>Glenn Theodore Seaborg</item>   <!--49-->
+        <item>Antonio de Ulloa</item>   <!--50-->
+        <item>Auguste Honoré Charlois</item>   <!--51-->
+        <item>Smithson Tennant</item>   <!--52-->
+        <item>Georgiy Flerov</item>   <!--53-->
+        <item>ОИЯИ</item>   <!--54-->
+        <item>LLNL</item>   <!--55-->
+        <item>RIKEN</item>   <!--56-->
+        <item>GSI</item>   <!--57-->
+        <item>Ferdinand Reich</item>    <!--58-->
+        <item>William Crookes</item>    <!--59-->
+        <item>Marguerite Perey</item>   <!--60-->
+        <item>William Gregor</item>     <!--61-->
+        <item>Michał Sędziwój</item>    <!--62-->
+    </array>
+
+
+    <array name="element_name">
+        <item>Hydrogen</item>
+        <item>Helium</item>
+        <item>Lithium</item>
+        <item>Beryllium</item>
+        <item>Boron</item>
+        <item>Carbon</item>
+        <item>Nitrogen</item>
+        <item>Oxygen</item>
+        <item>Fluorine</item>
+        <item>Neon</item>
+        <item>Sodium</item>
+        <item>Magnesium</item>
+        <item>Aluminium</item>
+        <item>Silicon</item>
+        <item>Phosphorus</item>
+        <item>Sulphur</item>
+        <item>Chlorine</item>
+        <item>Argon</item>
+        <item>Potassium</item>
+        <item>Calcium</item>
+        <item>Scandium</item>
+        <item>Titanium</item>
+        <item>Vanadium</item>
+        <item>Chromium</item>
+        <item>Manganese</item>
+        <item>Iron</item>
+        <item>Cobalt</item>
+        <item>Nickel</item>
+        <item>Copper</item>
+        <item>Zinc</item>
+        <item>Gallium</item>
+        <item>Germanium</item>
+        <item>Arsenic</item>
+        <item>Selenium</item>
+        <item>Bromine</item>
+        <item>Krypton</item>
+        <item>Rubidium</item>
+        <item>Strontium</item>
+        <item>Yttrium</item>
+        <item>Zirconium</item>
+        <item>Niobium</item>
+        <item>Molybdenum</item>
+        <item>Technetium</item>
+        <item>Ruthenium</item>
+        <item>Rhodium</item>
+        <item>Palladium</item>
+        <item>Silver</item>
+        <item>Cadmium</item>
+        <item>Indium</item>
+        <item>Tin</item>
+        <item>Antimony</item>
+        <item>Tellurium</item>
+        <item>Iodine</item>
+        <item>Xenon</item>
+        <item>Cesium</item>
+        <item>Barium</item>
+        <item>Lanthanum</item>
+        <item>Cerium</item>
+        <item>Praseodymium</item>
+        <item>Neodymium</item>
+        <item>Promethium</item>
+        <item>Samarium</item>
+        <item>Europium</item>
+        <item>Gadolinium</item>
+        <item>Terbium</item>
+        <item>Dysprosium</item>
+        <item>Holmium</item>
+        <item>Erbium</item>
+        <item>Thulium</item>
+        <item>Ytterbium</item>
+        <item>Lutetium</item>
+        <item>Hafnium</item>
+        <item>Tantalum</item>
+        <item>Tungsten</item>
+        <item>Rhenium</item>
+        <item>Osmium</item>
+        <item>Iridium</item>
+        <item>Platinum</item>
+        <item>Gold</item>
+        <item>Mercury</item>
+        <item>Thallium</item>
+        <item>Lead</item>
+        <item>Bismuth</item>
+        <item>Polonium</item>
+        <item>Astatine</item>
+        <item>Radon</item>
+        <item>Francium</item>
+        <item>Radium</item>
+        <item>Actinium</item>
+        <item>Thorium</item>
+        <item>Protactinium</item>
+        <item>Uranium</item>
+        <item>Neptunium</item>
+        <item>Plutonium</item>
+        <item>Americium</item>
+        <item>Curium</item>
+        <item>Berkelium</item>
+        <item>Californium</item>
+        <item>Einsteinium</item>
+        <item>Fermium</item>
+        <item>Mendelevium</item>
+        <item>Nobelium</item>
+        <item>Lawrencium</item>
+        <item>Rutherfordium</item>
+        <item>Dubnium</item>
+        <item>Seaborgium</item>
+        <item>Bohrium</item>
+        <item>Hassium</item>
+        <item>Meitnerium</item>
+        <item>Darmstadtium</item>
+        <item>Roentgenium</item>
+        <item>Copernicium</item>
+        <item>Nihonium"</item>
+        <item>Flerovium</item>
+        <item>Moscovium</item>
+        <item>Livermorium</item>
+        <item>Tennessine</item>
+        <item>Oganesson</item>
+        <item>Ununennium</item>
+        <item>Unbinilium</item>
+        <item>Unbiunium</item>
+        <item>Unbibium</item>
+        <item>Unbitrium</item>
+        <item>Unbiquadium</item>
+        <item>Unbipentium</item>
+        <item>Unbihexium</item>
+    </array>
+
+</resources>

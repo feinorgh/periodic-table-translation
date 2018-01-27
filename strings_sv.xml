@@ -1,0 +1,386 @@
+<resources>
+	<string name="name_ab">Periodiska Systemet</string>
+	<string name="app_name">Periodiska Systemet PRO</string>
+
+	<string name="dm_left0">Tabeller</string>
+	<string name="dm_left1">Kalkylatorer</string>
+	<string name="dm_left2">Tabelllöslighet</string>
+	<string name="dm_left3">Rapportera en bugg</string>
+	<string name="dm_left4">Dela med sig</string>
+	<string name="dm_left4_1">Inställningar</string>
+	<string name="dm_left5">About</string>
+	<string name="dm_left6">Utgång</string>
+	<string name="dm_left7">Lexikon</string>
+	<string name="dm_left8">Isotoper</string>
+
+	<string name="search">Sök</string>
+	<string name="rm_search">Sök:</string>
+	<string name="search_hint">Ange namnet elementet:</string>
+	<string name="rm_category_head">Kategorier:</string>
+	<string name="rm_category_search_head">Sökresultat:</string>
+	<string name="rastvor_group1">Löslig</string>
+	<string name="rastvor_group2">Lite lösligt</string>
+	<string name="rastvor_group3">Olöslig</string>
+	<string name="rastvor_group4">Nedbrytas av vatten</string>
+	<string name="rastvor_grp_tr">-</string>
+
+	<string name="read_obsh_head">Översikt</string>
+	<string name="read_latin_name">Latinska namn:</string>
+	<string name="read_eng_name">Engelskt namn:</string>
+	<string name="read_year_open">Discovery år:</string>
+	<string name="read_properties">Egenskaper</string>
+	<string name="read_atom_massa">Atomvikt(Relativ atommassa):</string>
+	<string name="read_density">Densitet:</string>
+	<string name="read_temp1">Smältpunkt:</string>
+	<string name="read_temp2">Kokpunkt:</string>
+	<string name="read_period_group">Period, grupp:</string>
+	<string name="read_year1">år</string>
+	<string name="read_year2">år</string>
+	<string name="read_gramm_moll">(g/mol)</string>
+	<string name="read_gramm_santim">(g/cm³)</string>
+
+	<string name="text1">1</string>
+	<string name="text2">2</string>
+	<string name="text3">3</string>
+	<string name="text4">4</string>
+	<string name="text5">5</string>
+	<string name="text6">6</string>
+	<string name="text7">7</string>
+	<string name="text8">8</string>
+	<string name="text9">9</string>
+	<string name="text10">10</string>
+	<string name="text11">11</string>
+	<string name="text12">12</string>
+	<string name="text13">13</string>
+	<string name="text14">14</string>
+	<string name="text15">15</string>
+	<string name="text16">16</string>
+	<string name="text17">17</string>
+	<string name="text18">18</string>
+	<string name="text19">19</string>
+	<string name="text20s">20</string>
+
+	<string name="text_hor1">1</string>
+	<string name="text_hor2">2</string>
+	<string name="text_hor3">3</string>
+	<string name="text_hor4">4</string>
+	<string name="text_hor5">5</string>
+	<string name="text_hor6">6</string>
+	<string name="text_hor7">7</string>
+	<string name="text_hor8">8</string>
+	<string name="text_hor9">9</string>
+	<string name="text_hor10">10</string>
+	<string name="text_hor11">11</string>
+	<string name="text_hor12">12</string>
+	<string name="text_hor13">13</string>
+	<string name="text_hor14">14</string>
+	<string name="text_hor15">15</string>
+	<string name="text_hor16">16</string>
+	<string name="text_hor17">17</string>
+	<string name="text_hor18">18</string>
+
+	<string name="version_app">Version: </string>
+	<string name="about_project">Handla om:</string>
+	<string name="whats_new">Vad är nytt:</string>
+	<string name="first_start">Periodiskt bord - är en gratis applikation för Android, som vid startgränssnittet visar hela periodiska tabellen. Bordet har en lång form som godkändes av International Union of Clean and Applied Chemistry (IUPAC) som kärna. Förutom det periodiska tabellen över kemiska element kan du använda tabellen över löslighet\n
+
+- När du klickar på ett element tillhandahålls information som ständigt uppdateras\n
+- För de flesta objekt har en bild\n
+- För mer information finns det direkta länkar till Wikipedia för varje objekt\n
+- Tabelllöslighet\n
+- För att hitta något element kan du använda sökningen. Sökmotorn är inte valfri för registret eller skrivstilstilsökning\n
+- Du kan sortera objekten i tio kategorier:\n
+• Alkaliska jordmetaller\n
+• Andra icke-metaller\n
+• Alkalimetaller\n
+• Halogener\n
+• Övergångsmetaller\n
+• Inerta gaser\n
+• Övergångsmetaller\n
+• Lantanider\n
+• Semimetaler\n
+• Aktinider\n
+Elementen i den valda kategorin kommer att listas i sökresultaten och markeras i tabellen på huvudprogrammets skärm</string>
+
+	<string name="no_image">Utan foto</string>
+	<string name="fab_element_image">Fotoelement</string>
+	<string name="na">på</string>
+	<string name="raspr">Utbredning</string>
+	<string name="raspr1">Universum består av</string>
+	<string name="raspr2">Solen består av</string>
+	<string name="raspr3">Haven består av</string>
+	<string name="raspr4">Människokroppen består av</string>
+	<string name="table_table_rastvor">Tabelllöslighet</string>
+	<string name="table_metod_analyz">Definition av kemiska föreningar</string>
+	<string name="table_neitron_secheniya">Neutrontvärsnitt av kärnor</string>
+	<string name="table_electrootric">Elektronnegativitet</string>
+	<string name="table_obshie_konstanty">Allmänna konstanter</string>
+	<string name="table_dipol_momenty">Dipole stunder av molekyler</string>
+	<string name="table_table_rastvor_descr">För att testa lösligheten för kemiska föreningar i vattnet, gör det från korsningen av en rad och en kolumn och läs symbolen vid korsningen, kan du välja kategori som du vill se</string>
+	<string name="table_metod_analyz_descr">Metoderna för analys och identifiering av kemiska föreningar innefattar: kemiska, fysikalisk-kemiska och fysiska metoder. Den grundläggande skillnaden mellan dem</string>
+
+	<string name="table_neitron_secheniya_descr">Vid studier av sådana processer för interaktion av partiklar som elastisk och oelastisk spridning, infångning etc. är det vanligt att man arbetar med ett effektivt tvärsnitt av a partiklar, vilket bestäms av det område som beskrivs kring partiklarna i en cirkel av sådana En radie</string>
+	<string name="table_electrootric_descr">Den grundläggande kemiska egenskapen hos en atom, en kvantitativ egenskap hos atomen i molekylens förmåga att växla till sina gemensamma elektronpar, dvs förmågan att fördröja atomerna till sig själva elektronerna hos andra atomer</string>
+	<string name="table_obshie_konstanty_descr">Tabell över totala utbildningen b-konstanter av vissa komplex av Allmän och oorganisk kemi innehåller följande information: Allmän utbildning b-konstanter av vissa komplex i vattenlösning, 25 ° C. Bordet innehåller referensmaterialet</string>
+	<string name="table_dipol_momenty_descr">Bordet innehåller dipolmomenten av ämnen med polyatomiska molekyler. Tabellen innehåller det referensmaterial som behövs för att lösa problem i allmän och oorganisk kemi. Är avsedd för elever och studenter</string>
+	<string name="ma_ab_name">Definition kemisk anslutning</string>
+	<string name="ma_ab_himicheskie">Kemisk</string>
+	<string name="ma_ab_fizicheskie">Fysisk</string>
+	<string name="ma_fotometrich">Fotometrisk\n(optisk)</string>
+	<string name="ma_electrohim">Elektrokemisk</string>
+	<string name="ma_spectrofotometr">Spektrofotometri</string>
+	<string name="ma_nefelo">Nefelometria och turbidimetri</string>
+	<string name="ma_potencial">Potentiometri</string>
+	<string name="ma_polyarograf">Polarografi</string>
+	<string name="ma_kulonometr">Coulometry</string>
+	<string name="ma_konduktometr">Ledningsförmåga</string>
+	<string name="ma_kinetick">Kinetisk</string>
+	<string name="ma_spectroskop">Spektroskopisk</string>
+	<string name="ma_lyminiscentn">Fluorescerande\n analys</string>
+	<string name="ma_rentgeno">X-ray</string>
+	<string name="ma_foto">Foton-</string>
+	<string name="ma_hemi">Chemie</string>
+	<string name="ma_esp">Elektronisk spektroskopi (ESP)</string>
+	<string name="ma_kolebat">Vibrationsspektroskopi</string>
+	<string name="ma_magneto">Magnetisk\n radiospektroskopi</string>
+	<string name="ma_ir">-IR (Infraröd)</string>
+	<string name="ma_kr">-RS (Raman Spridning)</string>
+	<string name="ma_amr">-NMR (Nukleär Magnetisk Resonans)</string>
+	<string name="ma_epr">-EPR (Elektron Paramagnetisk Resonans)</string>
+	<string name="ma_atomnoobsorbac">Atomabsorptionsanalys</string>
+	<string name="ma_atomnoemission">Atom-utsläppsanalys</string>
+
+	<string name="ma_radiohimich">Radiochemical</string>
+	<string name="ns_ab_name">Neutron-tvärsnittskärnan</string>
+	<string name="ns_title">Effektiva neutron-tvärsnitt av elementets kärnor</string>
+	<string name="ns_subtitle">Vid studier av sådana processer för interaktion av partiklar som elastisk och oelastisk spridning, infångning etc. är det vanligt att man arbetar med ett effektivt tvärsnitt av a partiklar, vilket bestäms av det område som beskrivs kring partiklarna i en cirkel av sådana En radie som, när den injiceras i detta område en andra interagerande partikel, sker denna process alltid. Så lösa de olika typerna av kärnor i deras interaktion med neutronavskiljningstvärsnittet av σα, spridningstvärsnittet, σs, etc. Summen av denna storhet kallas vanligen den totala tvärsnittet σ av denna kärna</string>
+	<string name="ns_subtitle2">Referenstabellen ger effektiva tvärsnitt av kärnor av vissa element i deras växelverkan med neutroner: \ n1) snabb (b, vetenskap, energi 3-10 MeV)\n
+		2) värme (dvs energi = 0,025 EV)\n
+		Om fasta neutroner ges full effektiva tvärsnittet (σполн), för termisk spridning av tvärsnittet (σpacc) och fånga tvärsnitt av (σпогл); För termiska neutroner σполн = σpacc + σпогл. Alla värden på σ, data i Barna, beräknat som medelvärdet av resultat från olika författare</string>
+	<string name="ns_read_title">Det effektiva tvärsnittet av kärnor:</string>
+	<string name="ns_read_title1">Snabba neutroner(σ - full):</string>
+	<string name="ns_read_title2">σ - dispersion:</string>
+	<string name="ns_read_title3">σ - fånga:</string>
+	<string name="electro_ab_name">Elektronnegativitet</string>
+	<string name="electro_column1">Element</string>
+	<string name="electro_column2">Värde</string>
+	<string name="electro_column3">kJ/mole</string>
+	<string name="okonstanty_ab_name">Allmänna konstanter</string>
+	<string name="okonstanty_column1">Komplex</string>
+	<string name="okonstanty_column2">b</string>
+	<string name="dopol_moment_ab_name">Dipole stunder</string>
+	<string name="sett_base">Allmänna Inställningar:</string>
+	<string name="sett_text_size">Textstorlek</string>
+	<string name="sett_text_size2">Justera teckenstorleken när du läser information om elementet</string>
+	<string name="sett_dopoln">Dessutom:</string>
+	<string name="sett_error">Gör appen bättre tillsammans</string>
+	<string name="sett_update">Verifiera uppdateringen</string>
+	<string name="sett_update2">Kanske finns det en ny version av ansökan</string>
+	<string name="sett_about">Detaljerad information om ansökan</string>
+	<string name="play_more">Läs mer här:</string>
+	<string name="share_element">Dela med sig</string>
+	<string name="buffer_copy">Kopieras till urklipp</string>
+	<string name="table_like_header1">Liksom det periodiska bordet?</string>
+	<string name="table_like_no">Nej</string>
+	<string name="table_like_yes">Ja!</string>
+	<string name="table_like_mail">Vill du skriva varför?</string>
+	<string name="table_like_mail_no">Vill inte ha</string>
+	<string name="table_like_mail_yes">Ja självklart</string>
+	<string name="table_like_market">Vill du sätta betyg?</string>
+	<string name="table_like_market_yes">Självklart!</string>
+	<string name="license_exit">Utgång</string>
+	<string name="license_text">- Din applikationsversion är inte äkta\n
+		- För att slutföra ansökningsarbetet rekommenderar vi starkt att du köper appen officiellt på Google Play</string>
+	<string name="license_header">Din kopia är inte äkta</string>
+	<string name="license_byu">Google Play</string>
+
+	<string name="sm0">Ytterligare information</string>
+	<string name="sm1">Färg:</string>
+	<string name="sm2">Brinell hårdhet:</string>
+	<string name="sm3">Bulkmodul:</string>
+	<string name="sm4">Densitet:</string>
+	<string name="sm5">Vätsketäthet:</string>
+	<string name="sm6">Mohs hårdhet:</string>
+	<string name="sm7">Molvolym:</string>
+	<string name="sm7_2">(cm³/mole)</string>
+	<string name="sm8">Ljudhastighet, m*s(-1)</string>
+	<string name="sm9">Brytningsindex:</string>
+	<string name="sm10">Värmeledningsförmåga:</string>
+	<string name="sm11">Youngs modul:</string>
+	<string name="sm12">CAS-nummer:</string>
+	<string name="sm13">Poisson förhållande:</string>
+	<string name="sm14">Skjuvmodul:</string>
+	<string name="sm15">Vickers hårdhet:</string>
+	<string name="sm16">CID-nummer:</string>
+	<string name="sm17">RTEC-nummer:</string>
+
+
+	<string name="es0">Elektromagnetiska egenskaper</string>
+	<string name="es1">Elektrisk konduktivitet(S/m):</string>
+	<string name="es2">Elektrisk typ:</string>
+	<string name="es3">Magnetisk typ:</string>
+	<string name="es4">Magnetisk typ…:</string>
+	<string name="es5">Massmagnetisk känslighet:</string>
+	<string name="es6">Massmagnetisk känslighet:</string>
+	<string name="es7">Resistivitet:</string>
+	<string name="es8">Superledande punkt:</string>
+
+	<string name="ys0">Kärnegenskaper</string>
+	<string name="ys1">Radioaktiv:</string>
+	<string name="ys2">Halvt liv, s:</string>
+	<string name="ys3">Livstid, s:</string>
+	<string name="ys4">Neutron tvärsnitt, barn:</string>
+
+	<string name="ys_no">Nej</string>
+	<string name="ys_yes">Ja</string>
+
+	<string name="rs0">Reaktivitet</string>
+	<string name="rs1">Elektronnegativitet:</string>
+	<string name="rs2">Valens:</string>
+	<string name="rs3">Elektronaffinitet:</string>
+
+	<string name="el_config">Elektronkonfiguration:</string>
+
+	<string name="electrohim_me_ab">Elektrokemiska serien</string>
+	<string name="electrohim_me_napr">Spänning:</string>
+	<string name="poly_uglerod_ab">Polyaromatiska kolväten</string>
+	<string name="svva_alkanov_plotnost">Densitet:</string>
+	<string name="svva_alkanov_ab">Fysiska egenskaper hos vissa alkaner</string>
+	<string name="table_electrohim_me_descr">Elektrokemisk serie av metallspänning - en sekvens av metall anordnad i fallande ordning av deras kemiska aktivitet</string>
+	<string name="table_electrohim_me_name">Elektrokemiska serien</string>
+	<string name="table_ph_rastvor_name">Huvudindikatorerna för färgen ändras</string>
+	<string name="table_poly_uglerod_descr">Organiska föreningar som kännetecknas av den kemiska strukturen hos tre eller flera kondenserade bensenringar</string>
+	<string name="table_poly_uglerod_name">Polyaromatiska kol</string>
+	<string name="table_svva_alkanov_descr">Acykliska kolväten, linjär eller grenad struktur, som innehåller endast enstaka bindningar</string>
+	<string name="table_svva_alkanov_name">Egenskaper hos vissa alkaner</string>
+	<string name="ph_rastvor_ab">Indikatorer</string>
+	<string name="ph_rastvor_kislaya">Syra</string>
+	<string name="ph_rastvor_name1">Lackmus</string>
+	<string name="ph_rastvor_name1_descr">Färgen av naturligt ursprung, en av de första och mest kända syrabasindikatorerna</string>
+	<string name="ph_rastvor_name2">Fenolftalein</string>
+	<string name="ph_rastvor_name2_descr">Triphenylmetanfärger, syrabasindikator som ändrar färg från färglös till rödviolett, \"hallon\"</string>
+	<string name="ph_rastvor_name3">Metylorange</string>
+	<string name="ph_rastvor_name3_descr">Känd syrabasindikator, ett syntetiskt organiskt färgämne av azogruppen är natriumsaltet</string>
+	<string name="ph_rastvor_neitr">Neutral</string>
+	<string name="ph_rastvor_sheloch">Alkalisk</string>
+	<string name="next">Nästa</string>
+	<string name="prew">Tidigare</string>
+	<string name="svva_alkanov_kip">Kokande:</string>
+	<string name="svva_alkanov_plav">Smältande:</string>
+
+	<string name="at0">Atomegenskaper</string>
+	<string name="at1">Oxidationstillstånd:</string>
+	<string name="at2">Elektroner per skal:</string>
+	<string name="at3">Atom radie:</string>
+	<string name="at4">Kovalent radie:</string>
+	<string name="at5">Van der Waals radius:</string>
+
+	<string name="not_found_search">Inget hittat…</string>
+	<string name="isotop_period">Halvt liv:</string>
+	<string name="isotop_hour">timme</string>
+	<string name="isotop_zsec">zs</string>
+	<string name="isotop_massa">Isotopvikt:</string>
+	<string name="isotop_year">År</string>
+	<string name="isotop_stab">stabil</string>
+	<string name="isotop_sec">s</string>
+	<string name="isotop_psec">ps</string>
+	<string name="isotop_nsec">ns</string>
+	<string name="isotop_msec">ms</string>
+	<string name="isotop_mksec">µs</string>
+	<string name="isotop_min">m</string>
+	<string name="isotop_isec">ys</string>
+    <string name="isotop_day">dag</string>
+	<string name="pref_lang_name">Språk</string>
+	<string name="pref_lang_descr">När du har valt språket måste du starta om programmet</string>
+	<string name="btn_byu">Google Play</string>
+	<string name="filter_clean">Återställ filter</string>
+    <string name="el_obolochka">Elektronskal:</string>
+	<string name="el_obolocha_ab">Elektronskal</string>
+	<string name="el_obolochka_descr1">Elektroniskt skal av atomen - ett område av rymden är den mest sannolika platsen för elektronerna med samma värde av huvudkvantumnumret n och som en konsekvens som ligger på nära energinivåer</string>
+	<string name="el_obolochka_descr2">Elektroniskt skal betecknat med bokstäverna s, p, d, f, g, h, i, eller siffror från 0, bokstäverna K, L, M, N, O, P, Q eller siffror från 1 till 7. Till 6. De yttre elektronskaljorna har mer energi och jämfört med elektronerna i inre skal befinner sig längre från kärnan, vilket gör dem viktiga för att analysera atomer beteende i kemiska reaktioner och som ledare, eftersom deras svagare bindning med Kärna och bryter lätt</string>
+
+	<string name="read_cat1">Alkalimetaller</string>
+	<string name="read_cat2">Alkaliska jordmetaller</string>
+	<string name="read_cat3">Övergångsmetaller</string>
+	<string name="read_cat4">Halvledare</string>
+	<string name="read_cat5">Metalloider</string>
+	<string name="read_cat6">Andra icke-metaller</string>
+	<string name="read_cat7">Halogener</string>
+	<string name="read_cat8">Ädelgaser</string>
+	<string name="read_cat9">Lantanid</string>
+	<string name="read_cat10">Actinider</string>
+
+	<string name="ts0">Termodynamiska egenskaper</string>
+	<string name="ts1">Fas:</string>
+	<string name="ts2">Fusionsvärme, kJ*mol^-1:</string>
+	<string name="ts3">Specifik värme, J*kg^-1*K^-1:</string>
+	<string name="ts4">Termisk expansion:</string>
+	<string name="ts5">Förångningsvärme, kJ*mol^-1:</string>
+
+	<string name="calc_ab_hint">Ange formel</string>
+	<string name="calc_formula">Formel:</string>
+	<string name="calc_head_favorite">Favoriter:</string>
+	<string name="calc_head_result">Resultat:</string>
+	<string name="calc_name">Molär massa</string>
+    <string name="text_electron">Elektroner:</string>
+	<string name="text_neutron">Neutroner:</string>
+	<string name="text_proton">Protoner:</string>
+
+	<string name="perevod_theme">Jag vill hjälpa till med översättningen</string>
+	<string name="perevod_help_pref1">Hjälp med översättning</string>
+	<string name="perevod_help_pref2">Du kan hjälpa oss att göra översättningen av programmet bättre</string>
+
+	<string name="perevod_help1">Kan du hjälpa oss att göra översättning av ansökan bättre?</string>
+	<string name="perevod_help2">Skriv om detta till utvecklaren?</string>
+    <string name="raspr5">Jordskorpan består av</string>
+	<string name="raspr6">Meteoriter består av</string>
+
+	<string name="app_name_menu">Periodiska Systemet %1$s</string>
+	<string name="btn_more">Läs mer</string>
+
+	<string name="read_go_pro_text">Uppgradera till PRO-versionen och få mer intressant information om elementen</string>
+
+	<string name="gopro1">Du får omedelbart det stora utbudet av avancerade tabeller tack vare det vi försöker få med dig:\n
+- Enkel och tydlig assimilering av ett ämne\n
+- Durables av din kunskap\n
+- Medvetet arbete med ny pedagogisk information\n
+- Oberoende eliminering av luckor i kunskapen\n
+Våra bord, det är väldigt bekvämt att använda under läxan och förberedelserna för undersökning</string>
+
+	<string name="gopro5">Det är mer än information om element!\n
+Du lär dig mycket nytt och intressant för dig själv:\n
+- Utbredning\n
+- Kärnkraftsegenskaper\n
+- Reaktionsförmåga\n
+- Elektromagnetiska egenskaper\n
+- Atomegenskaper\n
+- Termodynamiska egenskaper\n
+- Isotoper … och många andra saker i PRO av applikationsversionen</string>
+
+	<string name="gopro6">Vi har samlat in för dig ett stort antal av huvudvillkoren i kemi
+Med vår samling av termer på dig kommer det alltid att bli att komma ihåg namnet på den nya termen och dess värde, öppna bara avsnittet \"Dictionary\" och du kommer hitta mycket nytt och intressant för dig själv</string>
+	<string name="gopro2">Kraftfull och avancerad sökning med vilken du med garanti hittar det nödvändiga elementet, skriv bara in namnet på något av tillgängliga språk eller annan information som du känner till</string>
+	<string name="gopro3">Du kommer att få uppdateringar framför allt tillsammans med dem ny, användbar information om kemiska element</string>
+	<string name="gopro4">Köpa PRO-versionen hjälper dig att projektet blir bättre!</string>
+
+    <string name="about_translate">De gjorde en översättning bättre:</string>
+    <string name="at6">Laddningen av jonen:</string>
+    <string name="setting_image_header">Bilder av elementen</string>
+	<string name="setting_image_title">Bildelement</string>
+    <string name="read_first_opener">Upptäckare:</string>
+
+	<string name="kr0">Kristallcell</string>
+	<string name="kr1">Strukturen i gallret:</string>
+	<string name="kr2">Grid parametrar:</string>
+	<string name="kr3">Attityd</string>
+	<string name="kr4">Debye temperatur:</string>
+    <string name="space0">Kosmisk kemi</string>
+    <string name="space1">Platsgruppsnamn:</string>
+    <string name="space2">Rymdgruppsnummer:</string>
+    <string name="isotop_deffect">Massfel:</string>
+    <string name="isotop_energ">Kommunikationsenergi:</string>
+    <string name="isotop_magnet">Magnetiskt moment:</string>
+    <string name="sett_grid_form">Form tabell</string>
+    <string name="sett_grid_form2">Välj det formulär som du vill ha mer</string>
+
+</resources>

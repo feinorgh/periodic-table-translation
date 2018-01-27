@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="table_style1">
+        <item>Långt bord(IUPAC)</item>
+        <item>Kort tabell(8 grupper)</item>
+    </array>
+
+    <array name="spinner_filter">
+        <item>Alla parametrar</item>
+        <item>Namn</item>
+        <item>Nummerelement</item>
+        <item>År</item>
+        <item>Vikt</item>
+        <item>Densitet</item>
+        <item>Ledningsförmåga</item>
+    </array>
+
+    <array name="spinner_filter_isotop">
+        <item>Alla parametrar</item>
+        <item>Namn</item>
+        <item>Nummerelement</item>
+        <item>Vikt</item>
+        <item>Period</item>
+    </array>
+
+    <array name="array_ts">
+        <item>Gas</item>
+        <item>Fast</item>
+        <item>Flytande</item>
+    </array>
+
+    <array name="categ_name_new">
+        <item>Alkaliska jordmetaller</item>
+        <item>Andra icke-metaller</item>
+        <item>Alkalimetaller</item>
+        <item>Halogener</item>
+        <item>Övergångsmetaller</item>
+        <item>Ådelgaser</item>
+        <item>Halvledare</item>
+        <item>Lantanid</item>
+        <item>Metalloider</item>
+        <item>Actinider</item>
+        <!-- <item>Superaktinider</item>
+        <item>Alla objekt</item> -->
+    </array>
+
+    <array name="reshetka">
+        <item>Hexagonal</item>
+        <item>Cubic body-centered</item>
+        <item>Rhombohedral</item>
+        <item>Cubic</item>
+        <item>Monoclinic</item>
+        <item>Cubic face-centered</item>
+        <item>Orthorombic</item>
+        <item>Hexagonal close-packed</item>
+        <item>Diamond</item>
+        <item>Trigonal</item>
+        <item>Tetragonal</item>
+        <item>Face-centered cubic atomic</item>
+    </array>
+
+    <array name="first_opener">
+        <item>Henry Cavendish</item>     <!--0-->
+        <item>Pierre Jules César Janssen</item>     <!--1-->
+        <item>Joseph Norman Lockyer</item>   <!--2-->
+        <item>Johan August Arfwedson</item>   <!--3-->
+        <item>Louis-Nicolas Vauquelin</item>   <!--4-->
+        <item>Joseph Louis Gay-Lussac</item>   <!--5-->
+        <item>Louis Jacques Thénard</item>   <!--6-->
+        <item>Humphry Davy</item>   <!--7-->
+        <item>Daniel Rutherford</item>   <!--8-->
+        <item>Joseph Priestley</item>   <!--9-->
+        <item>Carl Wilhelm Scheele</item>   <!--10-->
+        <item>Ferdinand Frederic Henri Moissan</item>   <!--11-->
+        <item>Sir William Ramsay</item>   <!--12-->
+        <item>Morris William Travers</item>   <!--13-->
+        <item>Grigory Nikolaevich Neuimin</item>   <!--14-->
+        <item>Hans Christian Ørsted</item>   <!--15-->
+        <item>Jöns Jakob Berzelius</item>   <!--16-->
+        <item>Hennig Brand</item>   <!--17-->
+        <item>Lars Fredrik Nilson</item>   <!--18-->
+        <item>Andres Manuel del Rio</item>   <!--19-->
+        <item>Johan Gottlieb Gahn</item>   <!--20-->
+        <item>Ignatius Gottfried Kaim</item>   <!--21-->
+        <item>Georg Brandt</item>   <!--22-->
+        <item>Axel Frederic von Cronstedt</item>   <!--23-->
+        <item>Paul Emile Lecoq de Boisbaudran</item>   <!--24-->
+        <item>Clemens Alexander Winkler</item>   <!--25-->
+        <item>Antoine-Jérôme Balard</item>   <!--26-->
+        <item>Karl Jakob Leuwich</item>   <!--27-->
+        <item>Robert Wilhelm Bunsen</item>   <!--28-->
+        <item>Gustav Robert Kirchhoff</item>   <!--29-->
+        <item>Adair Crawford</item>   <!--30-->
+        <item>Johan Gadolin</item>   <!--31-->
+        <item>Martin Heinrich Klaproth</item>   <!--32-->
+        <item>Charles Hatchett</item>   <!--33-->
+        <item>André-Louis Debierne</item>   <!--34-->
+        <item>William Hyde Wollaston</item>   <!--35-->
+        <item>Albert Ghiorso</item>   <!--36-->
+        <item>Paul Emile Lecoq de Boisbaudran</item>   <!--37-->
+        <item>Jean Charles Galissard de Marignac</item>   <!--38-->
+        <item>Eugène-Anatole Demarçay</item>   <!--39-->
+        <item>Claude Francois Geoffrey</item>   <!--40-->
+        <item>Friedrich Wilhelm Herschel</item>   <!--41-->
+        <item>Karl Ernst Claus</item>   <!--42-->
+        <item>Pierre Curie</item>   <!--43-->
+        <item>Marie Skłodowska Curie</item>   <!--44-->
+        <item>Carl Gustaf Mosander</item>   <!--45-->
+        <item>Emilio Gino Segrè</item>   <!--46-->
+        <item>Carlo Perrier</item>   <!--47-->
+        <item>Afanasiy Nikitin</item>   <!--48-->
+        <item>Glenn Theodore Seaborg</item>   <!--49-->
+        <item>Antonio de Ulloa</item>   <!--50-->
+        <item>Auguste Honoré Charlois</item>   <!--51-->
+        <item>Smithson Tennant</item>   <!--52-->
+        <item>Georgiy Flerov</item>   <!--53-->
+        <item>ОИЯИ</item>   <!--54-->
+        <item>LLNL</item>   <!--55-->
+        <item>RIKEN</item>   <!--56-->
+        <item>GSI</item>   <!--57-->
+        <item>Ferdinand Reich</item>    <!--58-->
+        <item>William Crookes</item>    <!--59-->
+        <item>Marguerite Perey</item>   <!--60-->
+        <item>William Gregor</item>     <!--61-->
+        <item>Michał Sędziwój</item>    <!--62-->
+    </array>
+
+
+    <array name="element_name">
+        <item>Väte</item>
+        <item>Helium</item>
+        <item>Litium</item>
+        <item>Beryllium</item>
+        <item>Bor</item>
+        <item>Kol</item>
+        <item>Kväve</item>
+        <item>Syre</item>
+        <item>Fluor</item>
+        <item>Neon</item>
+        <item>Natrium</item>
+        <item>Magnesium</item>
+        <item>Aluminium</item>
+        <item>Kisel</item>
+        <item>Fosfor</item>
+        <item>Svavel</item>
+        <item>Klor</item>
+        <item>Argon</item>
+        <item>Kalium</item>
+        <item>Kalcium</item>
+        <item>Skandium</item>
+        <item>Titan</item>
+        <item>Vanadin</item>
+        <item>Krom</item>
+        <item>Mangan</item>
+        <item>Järn</item>
+        <item>Kobolt</item>
+        <item>Nickel</item>
+        <item>Koppar</item>
+        <item>Zink</item>
+        <item>Gallium</item>
+        <item>Germanium</item>
+        <item>Arsenik</item>
+        <item>Selen</item>
+        <item>Brom</item>
+        <item>Krypton</item>
+        <item>Rubidium</item>
+        <item>Strontium</item>
+        <item>Yttrium</item>
+        <item>Zirkonium</item>
+        <item>Niob</item>
+        <item>Molybden</item>
+        <item>Teknetium</item>
+        <item>Rutenium</item>
+        <item>Rodium</item>
+        <item>Palladium</item>
+        <item>Silver</item>
+        <item>Kadmium</item>
+        <item>Indium</item>
+        <item>Tenn</item>
+        <item>Antimon</item>
+        <item>Tellur</item>
+        <item>Jod</item>
+        <item>Xenon</item>
+        <item>Cesium</item>
+        <item>Barium</item>
+        <item>Lantan</item>
+        <item>Cerium</item>
+        <item>Praseodym</item>
+        <item>Neodym</item>
+        <item>Prometium</item>
+        <item>Samarium</item>
+        <item>Europium</item>
+        <item>Gadolinium</item>
+        <item>Terbium</item>
+        <item>Dysprosium</item>
+        <item>Holmium</item>
+        <item>Erbium</item>
+        <item>Tulium</item>
+        <item>Ytterbium</item>
+        <item>Lutetium</item>
+        <item>Hafnium</item>
+        <item>Tantal</item>
+        <item>Volfram</item>
+        <item>Rhenium</item>
+        <item>Osmium</item>
+        <item>Iridium</item>
+        <item>Platina</item>
+        <item>Guld</item>
+        <item>Kvicksilver</item>
+        <item>Tallium</item>
+        <item>Bly</item>
+        <item>Vismut</item>
+        <item>Polonium</item>
+        <item>Astat</item>
+        <item>Radon</item>
+        <item>Francium</item>
+        <item>Radium</item>
+        <item>Aktinium</item>
+        <item>Torium</item>
+        <item>Protaktinium</item>
+        <item>Uran</item>
+        <item>Neptunium</item>
+        <item>Plutonium</item>
+        <item>Americium</item>
+        <item>Curium</item>
+        <item>Berkelium</item>
+        <item>Californium</item>
+        <item>Einsteinium</item>
+        <item>Fermium</item>
+        <item>Mendelevium</item>
+        <item>Nobelium</item>
+        <item>Lawrencium</item>
+        <item>Rutherfordium</item>
+        <item>Dubnium</item>
+        <item>Seaborgium</item>
+        <item>Bohrium</item>
+        <item>Hassium</item>
+        <item>Meitnerium</item>
+        <item>Darmstadtium</item>
+        <item>Röntgenium</item>
+        <item>Copernicium</item>
+        <item>Nihonium</item>
+        <item>Flerovium</item>
+        <item>Moscovium</item>
+        <item>Livermorium</item>
+        <item>Tennessine</item>
+        <item>Oganesson</item>
+        <item>Ununennium</item>
+        <item>Unbinilium</item>
+        <item>Unbiunium</item>
+        <item>Unbibium</item>
+        <item>Unbitrium</item>
+        <item>Unbiquadium</item>
+        <item>Unbipentium</item>
+        <item>Unbihexium</item>
+    </array>
+
+</resources>

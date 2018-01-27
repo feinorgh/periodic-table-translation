@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="name_ab">Periodic Table</string>
+	<string name="app_name">Periodic Table PRO</string>
+
+	<string name="app_version" translatable="false">0.1.30</string>
+	<string name="alphabet_russia" translatable="false">АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ</string>
+
+	<string name="search">Search</string>
+	<string name="dm_left0">Tables</string>
+	<string name="dm_left1">Calculators</string>
+	<string name="dm_left2">Solubility table</string>
+	<string name="dm_left3">Report a bug</string>
+	<string name="dm_left4">Share</string>
+	<string name="dm_left4_1">Settings</string>
+	<string name="dm_left5">About</string>
+	<string name="dm_left6">Exit</string>
+	<string name="dm_left7">Dictionary</string>
+	<string name="dm_left8">Isotopes</string>
+
+	<string name="rm_search">Search:</string>
+	<string name="search_hint">Search for an element:</string>
+	<string name="rm_category_head">Categories:</string>
+	<string name="rm_category_search_head">Search result:</string>
+	<string name="rastvor_group1">Soluble</string>
+	<string name="rastvor_group2">Slightly soluble</string>
+	<string name="rastvor_group3">Insoluble</string>
+	<string name="rastvor_group4">Decomposed by water</string>
+	<string name="rastvor_grp_tr">-</string>
+
+	<string name="read_obsh_head">Overview</string>
+	<string name="read_latin_name">Latin name:</string>
+	<string name="read_eng_name">English name:</string>
+	<string name="read_year_open">Year discovered:</string>
+	<string name="read_properties">Properties:</string>
+	<string name="read_atom_massa">Atomic weight (Relative atomic mass):</string>
+	<string name="read_density">Density:</string>
+	<string name="read_temp1">Melting point:</string>
+	<string name="read_temp2">Boiling point:</string>
+	<string name="read_period_group">Period, group:</string>
+	<string name="read_year1">year</string>
+	<string name="read_year2">years</string>
+	<string name="read_gramm_moll">(g/mol)</string>
+	<string name="read_gramm_santim">(g/cm³)</string>
+
+	<string name="text1">1</string>
+	<string name="text2">2</string>
+	<string name="text3">3</string>
+	<string name="text4">4</string>
+	<string name="text5">5</string>
+	<string name="text6">6</string>
+	<string name="text7">7</string>
+	<string name="text8">8</string>
+	<string name="text9">9</string>
+	<string name="text10">10</string>
+	<string name="text11">11</string>
+	<string name="text12">12</string>
+	<string name="text13">13</string>
+	<string name="text14">14</string>
+	<string name="text15">15</string>
+	<string name="text16">16</string>
+	<string name="text17">17</string>
+	<string name="text18">18</string>
+	<string name="text19">19</string>
+	<string name="text20s">20</string>
+
+	<string name="text_hor1">1</string>
+	<string name="text_hor2">2</string>
+	<string name="text_hor3">3</string>
+	<string name="text_hor4">4</string>
+	<string name="text_hor5">5</string>
+	<string name="text_hor6">6</string>
+	<string name="text_hor7">7</string>
+	<string name="text_hor8">8</string>
+	<string name="text_hor9">9</string>
+	<string name="text_hor10">10</string>
+	<string name="text_hor11">11</string>
+	<string name="text_hor12">12</string>
+	<string name="text_hor13">13</string>
+	<string name="text_hor14">14</string>
+	<string name="text_hor15">15</string>
+	<string name="text_hor16">16</string>
+	<string name="text_hor17">17</string>
+	<string name="text_hor18">18</string>
+
+	<string name="version_app">Version: </string>
+	<string name="about_project">About:</string>
+	<string name="whats_new">What\'s new:</string>
+	<string name="first_start">Periodic Table - This is a free application for Android with a long-form periodic table approved by the International Union of Pure and Applied Chemistry (IUPAC). A solubility table is also available. \n\n
+
+Application Features:\n
+- Provides up-to-date information about any element on the periodic table (including images). \n
+- Direct links to the element\'s Wikipedia page for further research \n
+- Solubility table \n
+- Search function for elements (not case-sensitive) \n
+- Highlight elements in a category in the table and in the search menu:\n\n
+- Elements can be filtered into ten categories: \n
+• Alkaline earth metals \n
+• Alkali metals \n
+• Transition metals \n
+• Post-transition metals \n
+• Lanthanides \n
+• Semimetals \n
+• Actinides \n
+• Other non-metals \n
+• Halogens \n
+• Inert gases \n</string>
+
+	<string name="no_image">Without photo</string>
+	<string name="fab_element_image">Element photo</string>
+	<string name="na">on</string>
+	<string name="raspr">Prevalence</string>
+	<string name="raspr1">Universe consists of</string>
+	<string name="raspr2">Sun consists of</string>
+	<string name="raspr3">Oceans consists of</string>
+	<string name="raspr4">Human body consists of</string>
+
+	<string name="table_table_rastvor">Solubility Table</string>
+	<string name="table_metod_analyz">Identification of Chemical Compounds</string>
+	<string name="table_neitron_secheniya">Neutron Cross-Section of the Nuclei</string>
+	<string name="table_electrootric">Electronegativity</string>
+	<string name="table_obshie_konstanty">General Constants</string>
+	<string name="table_dipol_momenty">Dipole Moments of Molecules</string>
+	<string name="table_table_rastvor_descr">In order to find out the solubility of a salt in water, find the cation\'s row and the anion\'s column. Its solubulity is the intersection between the two.</string>
+	<string name="table_metod_analyz_descr">The methods of analysis and identification of chemical compounds include: chemical, physicochemical and physical methods.</string>
+	<string name="table_neitron_secheniya_descr">In the study of such processes of particles interaction as elastic and inelastic scattering, capture, etc., it is necessary to operate with an effective cross section of α particles, which is determined by the area around the particles, in a circle of a certain radius.</string>
+	<string name="table_electrootric_descr">The fundamental chemical property of an atom (a quantitative characteristic of the atom in the molecule) is its ability to share electron pairs, i.e. the ability to supply electrons for chemical bond formation</string>
+	<string name="table_obshie_konstanty_descr">Table of total b constants of some complexes of General and inorganic chemistry contains the following information: General education b consists of some complexes in aqueous solution, 25°C. The table contains the meanings</string>
+
+	<string name="table_dipol_momenty_descr">This table contains the dipole moments of polyatomic substances. The table contains the reference material needed for solving problems in general and inorganic chemistry. Suitable for school and university students.</string>
+	<string name="ma_ab_name">Identification of Chemical Compounds</string>
+	<string name="ma_ab_himicheskie">Chemical</string>
+	<string name="ma_ab_fizicheskie">Physical</string>
+	<string name="ma_fotometrich">Photometric\n(optical)</string>
+	<string name="ma_electrohim">Electrochemical</string>
+	<string name="ma_spectrofotometr">Spectrophotometry</string>
+	<string name="ma_nefelo">Nefelometria and Turbidimetry</string>
+	<string name="ma_potencial">Potentiometry</string>
+	<string name="ma_polyarograf">Polarography</string>
+	<string name="ma_kulonometr">Coulometry</string>
+	<string name="ma_konduktometr">Conductivity</string>
+	<string name="ma_kinetick">Kinetic</string>
+	<string name="ma_spectroskop">Spectroscopic</string>
+	<string name="ma_lyminiscentn">Fluorescent\n Analysis</string>
+	<string name="ma_rentgeno">X-ray</string>
+	<string name="ma_foto">Photos-</string>
+	<string name="ma_hemi">Chemie</string>
+	<string name="ma_esp">Electronic spectroscopy (ESP)</string>
+	<string name="ma_kolebat">Vibrational spectroscopy</string>
+	<string name="ma_magneto">Magnetic\n radiospectroscopy</string>
+	<string name="ma_ir">-IR (Infrared)</string>
+	<string name="ma_kr">-RS (Raman Scattering)</string>
+	<string name="ma_amr">-NMR (Nuclear Magnetic Resonance)</string>
+	<string name="ma_epr">-EPR (electronic paramagnetic resonance)</string>
+	<string name="ma_atomnoobsorbac">Atomic-absorption Analysis</string>
+	<string name="ma_atomnoemission">Atomic-emission Analysis</string>
+	<string name="ma_radiohimich">Radiochemical</string>
+
+	<string name="ns_ab_name">Neutron cross section</string>
+	<string name="ns_title">Effective neutron cross sections of the nuclei of elements</string>
+	<string name="ns_subtitle">In the study of such processes of particles interact as elastic and inelastic scattering. It is necessary to operate with an effective cross section of α particles, which is determined by the area around the particles in a circle of a certain radius, so that when a second interacting particle is injected into this area, the process invariably takes place. So they settle for the types of nuclei in the interaction between the neutron capture; cross sections of σα; the scattering cross section; σs; etc. The Sum of these values is usually called the total cross section σ of the core.</string>
+	<string name="ns_subtitle2">The reference table gives the effective cross sections of nuclei of some elements in their interaction with neutrons: \n
+		1) quick (b. Sciences, energy 3–10 MeV)\n
+		2) heat (i.e., energy ≤ 0.025 EV)\n
+		Neutrons that arte too fast are given full effective cross-section (σполн), for thermal — scattering cross-section (σpacc) and capture cross sections of (σпогл); for thermal neutrons σполн = σpacc + σпогл. All values of σ in the data in Barna are calculated as the average of results from various authors.</string>
+	<string name="ns_read_title">The effective cross section of cores:</string>
+	<string name="ns_read_title1">Fast neutrons(σ - full):</string>
+	<string name="ns_read_title2">σ - dispersion:</string>
+	<string name="ns_read_title3">σ - capture:</string>
+
+	<string name="electro_ab_name">Electronegativity</string>
+	<string name="electro_column1">Elements</string>
+	<string name="electro_column2">Value</string>
+	<string name="electro_column3">kJ/mole</string>
+	<string name="okonstanty_ab_name">General Constants</string>
+	<string name="okonstanty_column1">Complex</string>
+	<string name="okonstanty_column2">b</string>
+
+	<string name="dopol_moment_ab_name">Dipole moments</string>
+	<string name="sett_base">General settings:</string>
+	<string name="sett_text_size">Font size</string>
+	<string name="sett_text_size2">Adjust the font size</string>
+	<string name="sett_dopoln">Extra:</string>
+	<string name="sett_error">Help us make the app better</string>
+	<string name="sett_update">Check for update</string>
+	<string name="sett_update2">Manually check for a new version of the app</string>
+	<string name="sett_about">General app information</string>
+
+	<string name="play_more">Read more here:</string>
+	<string name="share_element">Share</string>
+	<string name="buffer_copy">Copied to clipboard</string>
+	<string name="table_like_header1">Do you like this app?</string>
+	<string name="table_like_no">No</string>
+	<string name="table_like_yes">Yes</string>
+	<string name="table_like_mail">Could you provide feedback?</string>
+	<string name="table_like_mail_no">No, thanks.</string>
+	<string name="table_like_mail_yes">Yes, of course</string>
+	<string name="table_like_market">Can you rate the app?</string>
+	<string name="table_like_market_yes">Of course</string>
+	<string name="license_exit">Exit</string>
+	<string name="license_text">- Your application version is not genuine\n
+		- An official version fron Google Play is required to function properly</string>
+	<string name="license_header">Your copy is not genuine</string>
+	<string name="license_byu">Google Play</string>
+
+	<string name="sm0">Additional information</string>
+	<string name="sm1">Colour:</string>
+	<string name="sm2">Brinell hardness:</string>
+	<string name="sm3">Bulk modulus:</string>
+	<string name="sm4">Density:</string>
+	<string name="sm5">Liquid density:</string>
+	<string name="sm6">Mohs hardness:</string>
+	<string name="sm7">Molar volume:</string>
+	<string name="sm7_2">(cm³/mole)</string>
+	<string name="sm8">Sound speed, m*s(-1)</string>
+	<string name="sm9">Refractive index:</string>
+	<string name="sm10">Thermal conductivity:</string>
+	<string name="sm11">Young\'s modulus:</string>
+	<string name="sm12">CAS Number:</string>
+	<string name="sm13">Poisson\'s ratio:</string>
+	<string name="sm14">Shear modulus:</string>
+	<string name="sm15">Vickers hardness, GPa:</string>
+	<string name="sm16">CID Number:</string>
+	<string name="sm17">RTEC Number:</string>
+
+	<string name="es0">Electromagnetic properties</string>
+	<string name="es1">Electrical conductivity(S/m):</string>
+	<string name="es2">Electrical type:</string>
+	<string name="es3">Magnetic type:</string>
+	<string name="es4">Volume magnetic susceptibility:</string>
+	<string name="es5">Mass magnetic susceptibility:</string>
+	<string name="es6">Molar magnetic susceptibility:</string>
+	<string name="es7">Resistivity:</string>
+	<string name="es8">Superconducting point:</string>
+
+	<string name="ys0">Nuclear properties</string>
+	<string name="ys1">Radioactive:</string>
+	<string name="ys2">Half life, s:</string>
+	<string name="ys3">Lifetime, s:</string>
+	<string name="ys4">Neutron cross section, barn:</string>
+
+	<string name="ys_no">No</string>
+	<string name="ys_yes">Yes</string>
+
+	<string name="rs0">Reactivity</string>
+	<string name="rs1">Electronegativity:</string>
+	<string name="rs2">Valence:</string>
+	<string name="rs3">Electron affinity:</string>
+
+	<string name="el_config">Electron configuration:</string>
+	<string name="electrohim_me_ab">Electrochemical series</string>
+	<string name="electrohim_me_napr">Voltage:</string>
+	<string name="poly_uglerod_ab">Polyaromatic hydrocarbons</string>
+	<string name="svva_alkanov_plotnost">Density:</string>
+	<string name="svva_alkanov_ab">Physical properties of some alkanes</string>
+	<string name="table_electrohim_me_descr">Electrochemical series - a sequence of metals arranged in descending order of their chemical activity</string>
+	<string name="table_electrohim_me_name">Electrochemical series</string>
+	<string name="table_ph_rastvor_name">Main indicators of the color changes</string>
+	<string name="table_poly_uglerod_descr">Organic compounds that are characterized by the chemical structure of three or more fused benzene rings</string>
+	<string name="table_poly_uglerod_name">Polyaromatic carbons</string>
+	<string name="table_svva_alkanov_descr">Acyclic hydrocarbons, linear or branched structure containing only single bonds</string>
+	<string name="table_svva_alkanov_name">Properties of some alkanes</string>
+	<string name="ph_rastvor_ab">Indicators</string>
+	<string name="ph_rastvor_kislaya">Acid</string>
+	<string name="ph_rastvor_name1">Litmus</string>
+	<string name="ph_rastvor_name1_descr">The colourant of natural origin - one of the first and most well-known acid-base (pH) indicators.</string>
+	<string name="ph_rastvor_name2">Phenolphthalein</string>
+	<string name="ph_rastvor_name2_descr">Triphenylmethane dyes - acid-base (pH) indicator that changes color from colorless to red-violet ("raspberry")</string>
+	<string name="ph_rastvor_name3">Methyl-orange</string>
+	<string name="ph_rastvor_name3_descr">Known acid-base (pH) indicator a synthetic organic dye of the azo group</string>
+	<string name="ph_rastvor_neitr">Neutral</string>
+	<string name="ph_rastvor_sheloch">Alkaline</string>
+	<string name="next">Next</string>
+	<string name="prew">Previous</string>
+	<string name="svva_alkanov_kip">Boiling:</string>
+	<string name="svva_alkanov_plav">Melting:</string>
+
+	<string name="at0">Atomic properties</string>
+	<string name="at1">Oxidation states:</string>
+	<string name="at2">Electrons per shell:</string>
+	<string name="at3">Atomic radius:</string>
+	<string name="at4">Covalent radius:</string>
+	<string name="at5">Van der Waals radius:</string>
+	<string name="at6">Ion charge:</string>
+
+	<string name="not_found_search">Nothing found…</string>
+	<string name="isotop_period">Half life:</string>
+	<string name="isotop_hour">Hour</string>
+	<string name="isotop_zsec">zs</string>
+	<string name="isotop_massa">Isotope weight:</string>
+	<string name="isotop_year">years</string>
+	<string name="isotop_stab">stable</string>
+	<string name="isotop_sec">s</string>
+	<string name="isotop_psec">ps</string>
+	<string name="isotop_nsec">ns</string>
+	<string name="isotop_msec">ms</string>
+	<string name="isotop_mksec">µs</string>
+	<string name="isotop_min">m</string>
+	<string name="isotop_isec">ys</string>
+	<string name="isotop_day">day</string>
+	<string name="pref_lang_name">Language</string>
+	<string name="pref_lang_descr">An application restart is required for the language change to take effect.</string>
+	<string name="btn_byu">Google Play</string>
+	<string name="filter_clean">Filter reset</string>
+	<string name="el_obolochka">Electron shell:</string>
+	<string name="el_obolocha_ab">Electron shell</string>
+	<string name="el_obolochka_descr1">Electronic shell of the atom - a region of space the most probable location of the electrons with the same value of the principal quantum number n and, as a consequence, are located on closely packed energy levels</string>
+	<string name="el_obolochka_descr2">Electronic shell denoted by the letters K, L, M, N, O, P, Q or numbers from 1 to 7. sublevels shells denoted by the letters s, p, d, f, g, h, i, or digits from 0 to 6. The outer electrons shells have more energy, and compared with the electrons in inner shells, are further from the core, which makes them important in analysing the behavior of atoms in chemical reactions and as a conductor (because their weaker bond with the core and breaks easily)</string>
+
+	<string name="read_cat1">Alkali metals</string>
+	<string name="read_cat2">Alkaline earth metals</string>
+	<string name="read_cat3">Transition metals</string>
+	<string name="read_cat4">Semiconductor</string>
+	<string name="read_cat5">Metalloids</string>
+	<string name="read_cat6">Other nonmetals</string>
+	<string name="read_cat7">Halogens</string>
+	<string name="read_cat8">Noble gases</string>
+	<string name="read_cat9">Lanthanoids</string>
+	<string name="read_cat10">Actinoids</string>
+
+	<string name="ts0">Thermodynamic properties</string>
+	<string name="ts1">Phase:</string>
+	<string name="ts2">Fusion heat, kJ*mol^-1:</string>
+	<string name="ts3">Specific heat, J*kg^-1*K^-1:</string>
+	<string name="ts4">Thermal expansion:</string>
+	<string name="ts5">Vaporization heat, kJ*mol^-1:</string>
+
+	<string name="calc_ab_hint">Enter formula</string>
+	<string name="calc_formula">Formula:</string>
+	<string name="calc_head_favorite">Favorites:</string>
+	<string name="calc_head_result">Result:</string>
+	<string name="calc_name">Molar mass:</string>
+
+	<string name="text_electron">Electrons:</string>
+	<string name="text_neutron">Neutrons:</string>
+	<string name="text_proton">Protons:</string>
+
+	<string name="perevod_theme">I want to help with translating</string>
+	<string name="perevod_help_pref1">Help with translating</string>
+	<string name="perevod_help_pref2">You can help us improve the translations</string>
+
+	<string name="perevod_help1">Can you help us improve the translations?</string>
+	<string name="perevod_help2">Notify the developer about this</string>
+	<string name="raspr5">The Earth\'s crust consists of</string>
+	<string name="raspr6">Meteorites consist of</string>
+
+	<string name="btn_more">Learn more</string>
+	<string name="app_name_menu">Periodic Table %1$s</string>
+	<string name="read_go_pro_text">Upgrade to the PRO version to unlock all the features in this app.</string>
+
+	<string name="gopro1">Instantly receive a wide range of advanced tables.\n These will help:\n
+		- Give you a clear understanding of the subject\n
+		- Provide comprehensive knowledge in the world of physics and chemistry\n
+		- Coordination with new research and information\n
+		- Fill in gaps in your knowledge\n
+		Our tables can be used conveniently for homework and exam preparation</string>
+	<string name="gopro5">Unlock more information about elements\n
+		Much more information can be accessed, such as:\n
+		- Prevalence\n
+		- Nuclear properties\n
+		- Reactionary abilities\n
+		- Electromagnetic properties\n
+		- Atomic properties\n
+		- Thermodynamic properties\n
+		- Isotopes\n
+		...and much more in the PRO version of the app</string>
+
+	<string name="gopro6">Chemical Dictionary\n
+		Unlock a large collection of the most important chemistry terms, just open the \"Dictionary\" section\n</string>
+	<string name="gopro2">A powerful, multi-language search tool that searches by element name or any other property.</string>
+	<string name="gopro3">You will receive updates earlier, and access new information about the elements with each update</string>
+	<string name="gopro4">Buying the PRO version will help make this project become better!</string>
+
+	<string name="about_translate">People who helped with translations:</string>
+	<string name="setting_image_header">Photos of the elements</string>
+	<string name="setting_image_title">Image elements</string>
+
+	<string name="read_first_opener">Discovered by:</string>
+
+	<string name="kr0">Crystal cell</string>
+	<string name="kr1">Crystal structure:</string>
+	<string name="kr2">Grid parameters:</string>
+	<string name="kr3">Attitude</string>
+	<string name="kr4">Debye temperature:</string>
+
+	<string name="space0">Cosmic Chemistry</string>
+	<string name="space1">Space group name:</string>
+	<string name="space2">Space group number:</string>
+	<string name="isotop_deffect">Defect of mass:</string>
+	<string name="isotop_energ">Communication energy:</string>
+	<string name="isotop_magnet">Magnetic moment:</string>
+    <string name="sett_grid_form">Form table</string>
+    <string name="sett_grid_form2">Choose the form that you like more</string>
+
+</resources>

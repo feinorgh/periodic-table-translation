@@ -2,14 +2,14 @@
 <resources>
 
     <array name="table_style1">
-        <item>Långt bord(IUPAC)</item>
-        <item>Kort tabell(8 grupper)</item>
+        <item>Lång tabell (IUPAC)</item>
+        <item>Kort tabell (8 grupper)</item>
     </array>
 
     <array name="spinner_filter">
         <item>Alla parametrar</item>
         <item>Namn</item>
-        <item>Nummerelement</item>
+        <item>Elementnummer</item>
         <item>År</item>
         <item>Vikt</item>
         <item>Densitet</item>
@@ -19,7 +19,7 @@
     <array name="spinner_filter_isotop">
         <item>Alla parametrar</item>
         <item>Namn</item>
-        <item>Nummerelement</item>
+        <item>Elementnummer</item>
         <item>Vikt</item>
         <item>Period</item>
     </array>
@@ -36,28 +36,28 @@
         <item>Alkalimetaller</item>
         <item>Halogener</item>
         <item>Övergångsmetaller</item>
-        <item>Ådelgaser</item>
+        <item>Ädelgaser</item>
         <item>Halvledare</item>
-        <item>Lantanid</item>
+        <item>Lantanoider</item>
         <item>Metalloider</item>
-        <item>Actinider</item>
+        <item>Aktinoider</item>
         <!-- <item>Superaktinider</item>
         <item>Alla objekt</item> -->
     </array>
 
     <array name="reshetka">
         <item>Hexagonal</item>
-        <item>Cubic body-centered</item>
-        <item>Rhombohedral</item>
-        <item>Cubic</item>
-        <item>Monoclinic</item>
-        <item>Cubic face-centered</item>
-        <item>Orthorombic</item>
-        <item>Hexagonal close-packed</item>
-        <item>Diamond</item>
+        <item>Kubisk rymdcentrerad</item>
+        <item>Rombohedral</item>
+        <item>Kubisk</item>
+        <item>Monoklin</item>
+        <item>Kubisk ytcentrerad</item>
+        <item>Ortorombisk</item>
+        <item>Hexagonal tätpackning</item>
+        <item>Diamant</item>
         <item>Trigonal</item>
         <item>Tetragonal</item>
-        <item>Face-centered cubic atomic</item>
+        <item>Kubisk ytcentrerad atomisk</item>
     </array>
 
     <array name="first_opener">
@@ -115,7 +115,7 @@
         <item>Auguste Honoré Charlois</item>   <!--51-->
         <item>Smithson Tennant</item>   <!--52-->
         <item>Georgiy Flerov</item>   <!--53-->
-        <item>ОИЯИ</item>   <!--54-->
+        <item>JINR</item>   <!--54-->
         <item>LLNL</item>   <!--55-->
         <item>RIKEN</item>   <!--56-->
         <item>GSI</item>   <!--57-->
@@ -257,3 +257,4 @@
     </array>
 
 </resources>
+

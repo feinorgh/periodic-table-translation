@@ -83,7 +83,7 @@
     <string name="version_app">Version: </string>
     <string name="about_project">Om:</string>
     <string name="whats_new">Vad är nytt?</string>
-    <string name="first_start">Periodic Table är en gratis app för Android, som visar hela periodiska systemet. Tabellen är en utökad form som godkändes av International Union of Clean and Applied Chemistry (IUPAC) som bas. Förutom det periodiska systemet för kemiska element finns också en tabell för löslighet.\n\n
+    <string name="first_start">Periodiska systemet - är en gratis applikation för Android, som vid startgränssnittet visar hela periodiska systemet. Systemet har en lång historia och är en utökad form av det system som godkändes av International Union of Clean and Applied Chemistry (IUPAC), vilket används som bas. Förutom det periodiska systemet för kemiska element finns också systematisk data över löslighet.\n\n
 
         Vad appen tillhandahåller:\n
         - När du klickar på ett element visas uppdaterad information.\n
@@ -303,8 +303,8 @@
     <string name="filter_clean">Återställ filter</string>
     <string name="el_obolochka">Elektronskal:</string>
     <string name="el_obolocha_ab">Elektronskal</string>
-    <string name="el_obolochka_descr1">Elektroniskt skal av atomen - ett område av rymden är den mest sannolika platsen för elektronerna med samma värde av huvudkvantumnumret n och som en konsekvens som ligger på nära energinivåer</string>
-    <string name="el_obolochka_descr2">Elektroniskt skal betecknat med bokstäverna s, p, d, f, g, h, i, eller siffror från 0, bokstäverna K, L, M, N, O, P, Q eller siffror från 1 till 7. Till 6. De yttre elektronskaljorna har mer energi och jämfört med elektronerna i inre skal befinner sig längre från kärnan, vilket gör dem viktiga för att analysera atomer beteende i kemiska reaktioner och som ledare, eftersom deras svagare bindning med Kärna och bryter lätt</string>
+    <string name="el_obolochka_descr1">Elektronskal av atomen - ett område av rymden där den mest sannolika platsen för elektronerna med samma värde av huvudkvantumnumret n är, och som en konsekvens av detta ligger på liknande energinivåer</string>
+    <string name="el_obolochka_descr2">Elektronskal betecknat med bokstäverna s, p, d, f, g, h, i, eller siffror från 0, bokstäverna K, L, M, N, O, P, Q eller siffror från 1 till 7. Till 6. De yttre elektronskalen har mer energi och jämfört med elektronerna i inre skal befinner de sig längre från kärnan, vilket gör dem viktiga för att analysera atomer beteende i kemiska reaktioner och som ledare, eftersom deras svagare bindning med kärnan och lätt bryts</string>
 
     <string name="read_cat1">Alkalimetaller</string>
     <string name="read_cat2">Alkaliska jordmetaller</string>
